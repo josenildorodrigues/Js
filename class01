@@ -1,1 +1,12 @@
 
+// Este programa pede ao usuário o seu nome e impreme na tela.
+
+// area de Variavéis.
+let nome = prompt('Digite seu Nome: ');
+let sobreNome = prompt('Digite seu Sobrenome: ');
+
+// Area de Processamento.
+let result = nome + sobreNome;
+
+// Execução do Programa.
+document.writeln('Seja bem-vindo: ', nome + " ", sobreNome, 'Vamos aprender Javascript');
