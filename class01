@@ -1,5 +1,5 @@
 
-// Este programa pede ao usuário o seu nome e impreme na tela.
+// Este programa pede ao usuário o seu nome e sobrenome, e imorime  na tela.
 
 // area de Variavéis.
 let nome = prompt('Digite seu Nome: ');
